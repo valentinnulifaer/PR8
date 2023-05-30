@@ -1,0 +1,28 @@
+﻿<Window x:Class="libs_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:libs_"
+        mc:Ignorable="d"
+        Background="{DynamicResource Primary}"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="darkBtn" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{DynamicResource dTheme}" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0" Click="darkBtn_Click"/>
+        <Button x:Name="whiteBtn" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{DynamicResource wTheme}" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,30" Click="whiteBtn_Click"/>
+        <Button x:Name="serializeBtn" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{DynamicResource exp}" Grid.Row="1"  Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,30" Click="serializeBtn_Click"/>
+        <Button x:Name="deserializeBtn" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{DynamicResource imp}" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0" Click="deserializeBtn_Click"/>
+        <Button x:Name="engBtn" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{DynamicResource eng}" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,30" Click="engBtn_Click"/>
+        <Button x:Name="rusBtn" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{DynamicResource rus}" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0" Click="rusBtn_Click"/>
+        <TextBox x:Name="msgTbx" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100"/>
+        <TextBlock Text="{DynamicResource txt}" Foreground="{DynamicResource Secondary}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72"/>
+    </Grid>
+</Window>

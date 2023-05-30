@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJ+0KNu4Qudrv21VXLLnfYzgNEnTcLce34Ga4n2TO/A+IyK41b9/m3xCVTJaoq2R7tUsHhp+ZhFZ1g9lgkYkxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\keylo\\source\\repos\\libs_\\JsonLibb\\JsonLibb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keylo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

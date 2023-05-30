@@ -1,0 +1,12 @@
+D:\Users\keylo\source\repos\libs_\JsonLibb\bin\Debug\net6.0\JsonLibb.deps.json
+D:\Users\keylo\source\repos\libs_\JsonLibb\bin\Debug\net6.0\JsonLibb.dll
+D:\Users\keylo\source\repos\libs_\JsonLibb\bin\Debug\net6.0\JsonLibb.pdb
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.csproj.AssemblyReference.cache
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.AssemblyInfoInputs.cache
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.AssemblyInfo.cs
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.csproj.CoreCompileInputs.cache
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.dll
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\refint\JsonLibb.dll
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\JsonLibb.pdb
+D:\Users\keylo\source\repos\libs_\JsonLibb\obj\Debug\net6.0\ref\JsonLibb.dll
